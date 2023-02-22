@@ -1,0 +1,9 @@
+@import url(/style/header.css);
+@import url(/style/introdução.css);
+
+body {
+    background-color: #FFC6D3;
+    font-family: Montserrat;
+    font-size: 16px;
+}
+

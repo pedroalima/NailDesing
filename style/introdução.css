@@ -1,0 +1,23 @@
+.introdução {
+    text-align: center;
+}
+
+.video {
+    border: 2px solid #FFFFFF;
+    border-radius: 10px;
+}
+
+.container {
+    margin: 2em 1.7em;
+}
+
+.introdução__titulo {
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 27px;
+    color: #FFFFFF;
+}
+
+.introdução__descrição {
+    margin: 1.5em 0;
+}
